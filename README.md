@@ -1,16 +1,13 @@
 # dotfiles
-
 [![Circle CI](https://circleci.com/gh/reo11/dotfiles.svg?style=shield&circle-token=ad0dde00aa79d62e4d8becd310868691b0e82995)](https://circleci.com/gh/reo11/dotfiles)
 
 ## Overview
-
 My home dotfiles
 
 ![overview](https://raw.githubusercontent.com/reo11/img/master/dotfiles/overview.png)
 
 
 ## Install
-
 1. Download
 `$ git clone https://github.com/reo11/dotfiles.git`
 2. Install
@@ -25,7 +22,6 @@ My home dotfiles
 
 
 ### Temporary Install
-
 If you do not want to dirty your home directory
 
 1. Download
@@ -47,7 +43,6 @@ $ git clone https://github.com/reo11/dotfiles.git
 
 
 ## Components
-
 - zsh
 - neovim(vim)
 - tmux
