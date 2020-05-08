@@ -1,10 +1,12 @@
 # dotfiles
 [![Circle CI](https://circleci.com/gh/reo11/dotfiles.svg?style=shield&circle-token=ad0dde00aa79d62e4d8becd310868691b0e82995)](https://circleci.com/gh/reo11/dotfiles)
+![](http://img.shields.io/badge/license-MIT-blue.svg)
+![](https://img.shields.io/badge/OS-arch%2Fubuntu%2Fcent%2Ffedora%2Falpine-blue.svg)
 
 ## Overview
 My home dotfiles
 
-![overview](https://raw.githubusercontent.com/reo11/img/master/dotfiles/overview.png)
+![overview](https://raw.githubusercontent.com/yutakatay/img/master/dotfiles/overview.png)
 
 
 ## Install
